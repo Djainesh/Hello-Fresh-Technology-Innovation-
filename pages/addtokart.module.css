@@ -1,0 +1,10 @@
+.container{
+    justify-content: space-around;
+    align-items:top;
+    display: block;
+    min-height: calc(100vh - 242px);
+}
+
+.customBtn{
+    min-width:25%;
+}
